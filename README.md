@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @parvezalam07
+
+   HI THERE👋 
+- 👋  I’m @parvezalam07
 - 👀 I’m interested in Machin learning
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on ...
